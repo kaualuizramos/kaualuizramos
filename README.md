@@ -1,4 +1,4 @@
-Kauã Luiz Ramos
+# Kauã Luiz Ramos
 🎓 Estudante de Engenharia da Computação  
 💻 Interesses: programação, IA, dados
 
@@ -14,9 +14,10 @@ Kauã Luiz Ramos
 
 ## 📊 Áreas de interesse
 
-- Ciência de Dados
-- Inteligência Artificial
-- Desenvolvimento de Software
+- 📈 Ciência de Dados
+- ⚙️ Inteligência Artificial
+- 🔌 Desenvolvimento de Software
+- 💾 Banco de Dados
 
 ---
 
