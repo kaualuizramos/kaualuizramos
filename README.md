@@ -23,7 +23,5 @@
 
 ## 📂 Projetos
 
-󠁯- Machine Learning Preditivo: 
+- Machine Learning Preditivo:
   https://github.com/LucasVieira-eng/ML-Preditiva
-- Robo BOB Tron (ESP32 / Micropython):
-  https://github.com/VitorHashimoto21/ROBO-BOBTRON-
