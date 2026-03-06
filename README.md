@@ -7,8 +7,9 @@
 ## 🚀 Tecnologias
 
 ![Python](https://img.shields.io/badge/Python-blue)
-![Java](https://img.shields.io/badge/Java-red)
-![SQL](https://img.shields.io/badge/SQL-grey)
+![Java](https://img.shields.io/badge/Java-orange)
+![C](https://img.shields.io/badge/C-grey)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
 
 ---
 
