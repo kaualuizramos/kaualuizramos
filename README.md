@@ -1,16 +1,28 @@
-## Hi there 👋
+Kauã Luiz Ramos
+🎓 Estudante de Engenharia da Computação  
+💻 Interesses: programação, IA, dados
 
-<!--
-**kaualuizramos/kaualuizramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/Python-blue)
+![Java](https://img.shields.io/badge/Java-red)
+![SQL](https://img.shields.io/badge/SQL-grey)
+
+---
+
+## 📊 Áreas de interesse
+
+- Ciência de Dados
+- Inteligência Artificial
+- Desenvolvimento de Software
+
+---
+
+## 📂 Projetos
+
+󠁯•󠁏󠁏 Machine Learning Preditivo: 
+  https://github.com/LucasVieira-eng/ML-Preditiva
+󠁯•󠁏󠁏 Robo BOB Tron (ESP32 / Micropython):
+  https://github.com/VitorHashimoto21/ROBO-BOBTRON-
