@@ -25,3 +25,9 @@
 
 - Machine Learning Preditivo:
   https://github.com/LucasVieira-eng/ML-Preditiva
+---
+
+## 📧 Contato
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kau%C3%A3-luiz-ramos-982384396/)
+- [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:kaualuiz2007@gmail.com)
