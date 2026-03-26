@@ -26,6 +26,8 @@
 
 - Machine Learning Preditivo:
   https://github.com/LucasVieira-eng/ML-Preditiva
+- Machine Learning com XGBoost:
+  https://github.com/kaualuizramos/TEKNIKAO-I
 ---
 
 ## 📧 Contato
