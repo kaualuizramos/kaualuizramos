@@ -26,7 +26,7 @@
 
 - Machine Learning Preditivo:
   https://github.com/LucasVieira-eng/ML-Preditiva
-- Machine Learning com XGBoost:
+- Manutenção Preditiva com XGBoost:
   https://github.com/kaualuizramos/TEKNIKAO-I
 ---
 
